@@ -1,8 +1,10 @@
 # Memorica_final
 step 1 clone the repo
 step 2 open frontend and backend in different VScode terminal
-step 2 run npm i in both
-step4 start server file by nodemon server.js and run npm start in frontend
+
+step 3 run npm i in both
+step 4 start server file by nodemon server.js and run npm start in frontend
+
 DEMO
 ![amzn (1)](https://github.com/ArindamDutta02082001/Memorica_final/assets/83761396/7ab9199e-2eaf-4b72-b169-f08576986a2c)
 ![image](https://github.com/ArindamDutta02082001/Memorica_final/assets/83761396/699b4469-33c0-443f-a09e-72081b76ffae)
